@@ -1,2 +1,2 @@
 # Image-Encryption-Decryption
-Image encryption and decryption script using XOR operation in Python. 
+Image encryption and decryption script using XOR cypher in Python. 
